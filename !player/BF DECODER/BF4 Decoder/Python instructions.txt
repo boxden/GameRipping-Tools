@@ -1,0 +1,13 @@
+1) Download Python here: http://www.python.org/ftp/python/2.7.6/python-2.7.6.msi
+2) Right click on the bf4dumper.py file, choose "Edit with IDLE".
+3) Adjust the script if necessary. Save with Ctrl+S.
+4) Run the script by pressing F5. A shell will open showing the names of extracted files. Note that the asterisks in the title of the shell indicate that the script is running.
+5) The script is finished when the asterisks are gone and a new line (>>>) awaiting further input appears.
+
+What about the other two py scripts?
+	They are imported by the dumper script. It's not necessary to modify them and they don't do really anything when you run them.
+
+Where to place dlls/auxiliary py scripts?
+	Either next to the bf4dumper.py or in the Python folder, i.e. C:\Python27.
+	I tend to put the dlls in the Python folder and leave the scripts next to each other.
+

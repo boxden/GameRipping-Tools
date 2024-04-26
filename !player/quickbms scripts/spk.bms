@@ -1,0 +1,19 @@
+findloc start string "\x0\x0\x0\x1"
+print "%start%"
+
+goto start
+endian big
+set i 0
+for i
+savepos offset
+get name basename
+string name + _
+string name + i
+string name + .unk
+getdstring one 0x14
+get size long
+math size + 0x20
+log name offset size
+math offset + size
+goto offset
+next i 

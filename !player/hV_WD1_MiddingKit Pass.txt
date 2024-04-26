@@ -1,0 +1,9 @@
+hV_M0ddingK1t
+
+hardVatsuki (she/vnr): WD1 DisruptFiles Converter
+Simple tool for modders that supports converting XBT <> DDS, SBAO <> OGG, Save <> SAV, FEU <> GFX
+You can drop individual file(s) or whole folders. If you run program without dragging a file/folder, you can convert files by putting them into Input folder near exe. To get help run program with -? or --help parameters. Tell me if you find any bugs, but be sure that files you are putting are not broken already.
+
+Password to the archives: hV_M0ddingK1t
+Second archive is source code (with same password) If you just need the tool, download only first archive.
+https://discord.com/channels/345656208411328514/345749110357229580/1009532541805547571
